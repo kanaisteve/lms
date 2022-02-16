@@ -1,0 +1,42 @@
+/*--------------------------------------------------------------
+# Services
+--------------------------------------------------------------*/
+.services-wrapper {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.services .icon-box {
+  margin-bottom: 20px;
+  padding: 30px;
+  border-radius: 6px;
+  background-color: #f8f9fa;
+}
+
+.services .icon-box i {
+  float: left;
+  color: #6b94cb;
+  font-size: 40px;
+}
+
+.services .icon-box h4 {
+  margin-left: 70px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+
+.services .icon-box h4 a {
+  color: #556270;
+  transition: 0.3s;
+}
+
+.services .icon-box p {
+  margin-left: 70px;
+  line-height: 24px;
+  font-size: 14px;
+}
+
+.services .icon-box:hover h4 a {
+  color: #6b94cb;
+}

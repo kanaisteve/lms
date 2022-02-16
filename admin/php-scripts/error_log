@@ -1,0 +1,52 @@
+[02-Sep-2021 10:55:08 UTC] PHP Warning:  include_once(./oo_connect.php): failed to open stream: No such file or directory in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 3
+[02-Sep-2021 10:55:08 UTC] PHP Warning:  include_once(): Failed opening './oo_connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 3
+[02-Sep-2021 10:55:08 UTC] PHP Notice:  Undefined variable: mysqli in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 13
+[02-Sep-2021 10:55:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on null in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 13
+[02-Sep-2021 10:56:27 UTC] PHP Warning:  include_once(./database/oo_connect.php): failed to open stream: No such file or directory in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 3
+[02-Sep-2021 10:56:27 UTC] PHP Warning:  include_once(): Failed opening './database/oo_connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 3
+[02-Sep-2021 10:56:27 UTC] PHP Notice:  Undefined variable: mysqli in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 13
+[02-Sep-2021 10:56:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on null in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 13
+[02-Sep-2021 11:09:39 UTC] PHP Warning:  include_once(./database/oo_connect.php): failed to open stream: No such file or directory in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 3
+[02-Sep-2021 11:09:39 UTC] PHP Warning:  include_once(): Failed opening './database/oo_connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 3
+[02-Sep-2021 11:09:39 UTC] PHP Notice:  Undefined variable: mysqli in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 37
+[02-Sep-2021 11:09:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 37
+[02-Sep-2021 11:10:53 UTC] PHP Warning:  include_once(database/oo_connect.php): failed to open stream: No such file or directory in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 3
+[02-Sep-2021 11:10:53 UTC] PHP Warning:  include_once(): Failed opening 'database/oo_connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 3
+[02-Sep-2021 11:10:53 UTC] PHP Notice:  Undefined variable: mysqli in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 37
+[02-Sep-2021 11:10:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 37
+[02-Sep-2021 11:12:37 UTC] PHP Warning:  include_once(admin/database/oo_connect.php): failed to open stream: No such file or directory in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 3
+[02-Sep-2021 11:12:37 UTC] PHP Warning:  include_once(): Failed opening 'admin/database/oo_connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 3
+[02-Sep-2021 11:12:37 UTC] PHP Notice:  Undefined variable: mysqli in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 37
+[02-Sep-2021 11:12:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 37
+[02-Sep-2021 11:14:23 UTC] PHP Notice:  Undefined variable: mysqli in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 36
+[02-Sep-2021 11:14:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 36
+[02-Sep-2021 11:53:03 UTC] PHP Notice:  Undefined variable: mysqli in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 36
+[02-Sep-2021 11:53:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 36
+[02-Sep-2021 11:57:26 UTC] PHP Warning:  include_once(./database/oo_connect.php): failed to open stream: No such file or directory in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 3
+[02-Sep-2021 11:57:26 UTC] PHP Warning:  include_once(): Failed opening './database/oo_connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 3
+[02-Sep-2021 11:57:26 UTC] PHP Notice:  Undefined variable: mysqli in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 38
+[02-Sep-2021 11:57:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/php-scripts/change-p.php on line 38

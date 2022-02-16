@@ -1,0 +1,102 @@
+[22-Jul-2021 15:57:51 UTC] PHP Notice:  Undefined variable: userRole in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/sign-in.php on line 93
+[22-Jul-2021 15:57:51 UTC] PHP Notice:  Undefined variable: userImg in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/sign-in.php on line 94
+[22-Jul-2021 16:04:03 UTC] PHP Warning:  Use of undefined constant l - assumed 'l' (this will throw an Error in a future version of PHP) in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/sign-up.php on line 104
+[10-Aug-2021 01:02:41 Africa/Lusaka] PHP Notice:  Undefined variable: username in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/sign-in2.php on line 78
+[10-Aug-2021 01:02:41 Africa/Lusaka] PHP Notice:  Undefined variable: username_err in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/sign-in2.php on line 79
+[10-Aug-2021 01:02:41 Africa/Lusaka] PHP Notice:  Undefined variable: password_err in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/sign-in2.php on line 83
+[10-Aug-2021 01:07:59 Africa/Lusaka] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/class/users.php on line 57
+[10-Aug-2021 01:09:12 Africa/Lusaka] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/class/users.php on line 57
+[10-Aug-2021 01:09:55 Africa/Lusaka] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/class/users.php on line 57
+[10-Aug-2021 09:51:21 Africa/Lusaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/class/users.php:56
+Stack trace:
+#0 /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/sign-in2.php(13): Users->login(Array)
+#1 {main}
+  thrown in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/class/users.php on line 56
+[10-Aug-2021 09:54:22 Africa/Lusaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/class/users.php:56
+Stack trace:
+#0 /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/sign-in2.php(13): Users->login(Array)
+#1 {main}
+  thrown in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/class/users.php on line 56
+[10-Aug-2021 09:54:51 Africa/Lusaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/class/users.php:56
+Stack trace:
+#0 /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/sign-in2.php(13): Users->login(Array)
+#1 {main}
+  thrown in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/class/users.php on line 56
+[10-Aug-2021 10:19:54 Africa/Lusaka] PHP Notice:  Undefined variable: mysqli in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/class/users.php on line 102
+[10-Aug-2021 10:19:54 Africa/Lusaka] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/class/users.php:102
+Stack trace:
+#0 /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/sign-in2.php(13): Users->signin(Array)
+#1 {main}
+  thrown in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/class/users.php on line 102
+[10-Aug-2021 10:20:16 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/class/users.php on line 122
+[10-Aug-2021 10:21:02 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/class/users.php on line 122
+[10-Aug-2021 10:30:10 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/class/users.php on line 63
+[10-Aug-2021 10:30:34 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/class/users.php on line 63
+[10-Aug-2021 10:33:20 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/class/users.php on line 63
+[10-Aug-2021 11:05:24 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/class/users.php on line 64
+[10-Aug-2021 11:10:05 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/class/users.php on line 64
+[10-Aug-2021 11:26:55 Africa/Lusaka] PHP Notice:  Undefined variable: error in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/sign-in.php on line 94
+[10-Aug-2021 12:09:20 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/class/users.php on line 60
+[10-Aug-2021 11:47:18 UTC] PHP Warning:  include_once(admin/class/users.php): failed to open stream: No such file or directory in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/sign-in.php on line 2
+[10-Aug-2021 11:47:18 UTC] PHP Warning:  include_once(): Failed opening 'admin/class/users.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/sign-in.php on line 2
+[10-Aug-2021 11:47:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Users' not found in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/sign-in.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/sign-in.php on line 4
+[10-Aug-2021 13:48:05 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 60
+[12-Aug-2021 05:33:22 UTC] PHP Fatal error:  Cannot redeclare Users::signin() in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 124
+[12-Aug-2021 07:34:31 Africa/Lusaka] PHP Notice:  username is not present in data in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/user_validator.php on line 24
+[12-Aug-2021 07:35:31 Africa/Lusaka] PHP Notice:  Undefined index: fistname in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/user_validator.php on line 52
+[12-Aug-2021 08:23:19 Africa/Lusaka] PHP Notice:  Undefined variable: reult in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 173
+[12-Aug-2021 08:23:19 Africa/Lusaka] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 173
+[12-Aug-2021 08:23:19 Africa/Lusaka] PHP Notice:  Undefined index: user_role in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 26
+[12-Aug-2021 08:29:28 Africa/Lusaka] PHP Notice:  Undefined variable: reult in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 173
+[12-Aug-2021 08:29:28 Africa/Lusaka] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 173
+[12-Aug-2021 08:29:28 Africa/Lusaka] PHP Notice:  Undefined index: user_role in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 26
+[16-Aug-2021 06:51:16 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/sign-up.php on line 23
+[16-Aug-2021 06:51:18 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/sign-up.php on line 23
+[16-Aug-2021 06:51:24 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/sign-up.php on line 23
+[16-Aug-2021 09:07:33 Africa/Lusaka] PHP Notice:  Undefined variable: confirm_password in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/user_validator.php on line 122
+[16-Aug-2021 10:22:58 Africa/Lusaka] PHP Notice:  Undefined variable: reult in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 173
+[16-Aug-2021 10:22:58 Africa/Lusaka] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 173
+[16-Aug-2021 11:27:55 Africa/Lusaka] PHP Notice:  Undefined variable: userObj in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/user_validator.php on line 86
+[16-Aug-2021 11:27:55 Africa/Lusaka] PHP Fatal error:  Uncaught Error: Call to a member function emailExists() on null in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/user_validator.php:86
+Stack trace:
+#0 /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/user_validator.php(34): UserValidator->validateEmail()
+#1 /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/sign-up.php(20): UserValidator->validateForm()
+#2 {main}
+  thrown in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/user_validator.php on line 86
+[16-Aug-2021 11:34:13 Africa/Lusaka] PHP Notice:  Undefined variable: userObj in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/user_validator.php on line 86
+[16-Aug-2021 11:34:13 Africa/Lusaka] PHP Fatal error:  Uncaught Error: Call to a member function emailExists() on null in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/user_validator.php:86
+Stack trace:
+#0 /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/user_validator.php(34): UserValidator->validateEmail()
+#1 /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/sign-up.php(20): UserValidator->validateForm()
+#2 {main}
+  thrown in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/user_validator.php on line 86
+[16-Aug-2021 11:35:44 Africa/Lusaka] PHP Notice:  Undefined property: UserValidator::$userObj in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/user_validator.php on line 86
+[16-Aug-2021 11:35:44 Africa/Lusaka] PHP Fatal error:  Uncaught Error: Call to a member function emailExists() on null in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/user_validator.php:86
+Stack trace:
+#0 /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/user_validator.php(34): UserValidator->validateEmail()
+#1 /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/sign-up.php(20): UserValidator->validateForm()
+#2 {main}
+  thrown in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/user_validator.php on line 86
+[16-Aug-2021 11:56:38 Africa/Lusaka] PHP Notice:  Undefined index: user_role in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 26
+[16-Aug-2021 12:14:15 Africa/Lusaka] PHP Notice:  Undefined variable: email_err in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/sign-up.php on line 101
+[16-Aug-2021 12:14:47 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 74
+[16-Aug-2021 12:15:34 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 74
+[16-Aug-2021 13:47:51 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 74
+[17-Aug-2021 13:10:38 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 76
+[17-Aug-2021 13:11:31 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 76
+[17-Aug-2021 13:12:29 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 76
+[18-Aug-2021 06:44:50 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 76
+[18-Aug-2021 09:12:56 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 76
+[19-Aug-2021 11:29:25 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 76
+[19-Aug-2021 11:41:24 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 76
+[20-Aug-2021 11:33:24 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 76
+[21-Aug-2021 16:00:53 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 76
+[21-Aug-2021 17:18:48 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 76
+[21-Aug-2021 17:19:31 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 76
+[21-Aug-2021 17:19:45 Africa/Lusaka] PHP Notice:  Undefined variable: email_err in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/sign-up.php on line 103
+[21-Aug-2021 17:30:00 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 76
+[21-Aug-2021 17:31:11 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 76
+[21-Aug-2021 17:51:35 Africa/Lusaka] PHP Notice:  Undefined variable: id in /home/u863218974/domains/kanaitech.com/public_html/projects/lms/v2.1/admin/libs/users.php on line 76
